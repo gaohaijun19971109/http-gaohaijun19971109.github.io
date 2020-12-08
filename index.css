@@ -1,9 +1,17 @@
 html,body{
+    padding: 0;
+    margin: 0;
     width: 100%;
     height: 100%;
+}
+p{
+    padding: 0;
+    margin: 0;
 }
 .all{
     width: 100%;
     height: 100%;
-    background-color: yellow;
+}
+.title{
+    text-align: center;
 }
